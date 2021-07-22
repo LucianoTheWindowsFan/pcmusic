@@ -11,6 +11,8 @@
 [TAGGER (HTML)] should be replaced with the person(s) who tagged the songs in the set, written per webpage naming standards.
 [TAGGER] should be replaced with the person(s) who tagged the songs in the set.
 [PROJECT NAME] should be replace with the project name, mostly abbreviations if a set with the abbreviation you want to put didn't exist.
+[COMPPOSER (HTML)] should be replaced with the person(s) who compsed the game's music, written per webpage naming standards.
+[COMPPOSER] should be replaced with the person(s) who compsed the game's music.
 
 <!DOCTYPE html>
 <html>
