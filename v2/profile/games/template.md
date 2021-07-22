@@ -17,6 +17,8 @@
 [GAME RELEASE DATE] should be replaced with the day the game was released.
 [VERSION] should be replaced with the set's latest version number.
 [LATEST VERSION RELEASE DATE] should be replaced with the release date of the set's latest version.
+[WIDTH] should be replaced with the image width.
+[HEIGHT] should be replaced with the image height.
 
 <!DOCTYPE html>
 <html>
@@ -130,8 +132,8 @@
     .gwd-img-1mra {
       position: absolute;
       left: 0px;
-      width: [WIDTH];
-      height: [HEIGHT];
+      width: [WIDTH]px;
+      height: [HEIGHT]px;
       top: 223px;
     }
   </style>
