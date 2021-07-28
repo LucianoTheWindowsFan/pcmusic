@@ -149,7 +149,25 @@
   <span class="gwd-span-wdy6 gwd-span-l4rz gwd-span-ukmn gwd-span-1jdu gwd-span-bkh9 gwd-span-1d0h gwd-span-d3ur gwd-span-n4mp gwd-span-ja3g"><a href="https://lucianothewindowsfan.github.io/pcmusic/v2/games/c64us/A_1.html" class="gwd-a-4uqj">Games (Commodre 64, US)</a></span>
   <span class="gwd-span-wdy6 gwd-span-l4rz gwd-span-ukmn gwd-span-1jdu gwd-span-bkh9 gwd-span-1d0h gwd-span-d3ur gwd-span-n4mp gwd-span-ja3g gwd-span-h99z"><a href="https://lucianothewindowsfan.github.io/pcmusic/v2/games/c64eu/A_1.html" class="gwd-a-4uqj">Games (Commodre 64, Europe)</a></span>
   <span class="gwd-span-wdy6 gwd-span-l4rz gwd-span-ukmn gwd-span-1jdu gwd-span-bkh9 gwd-span-1d0h gwd-span-d3ur gwd-span-n4mp gwd-span-ja3g gwd-span-h99z gwd-span-jsxn"><a href="https://lucianothewindowsfan.github.io/pcmusic/v2/games/amiga/A_1.html" class="gwd-a-4uqj">Games (Amiga)</a></span>
-  <span class="gwd-span-cjvs">[GAME] ([PLATFORM])<br>Composer: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[COMPPOSER (HTML)].html" class="gwd-a-4uqj">[COMPPOSER]</a><br>Developer: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[DEVELOPER (HTML)].html" class="gwd-a-4uqj">[DEVELOPER]</a><br>Publisher: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[PUBLISHER (HTML)].html" class="gwd-a-4uqj">[PUBLISHER]</a><br>Release Date: [GAME RELEASE DATE]<br>Dumper: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/contributor/[DUMPER (HTML)].html" class="gwd-a-4uqj">[DUMPER]</a><br>Tagger: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/contributor/[TAGGER (HTML)].html" class="gwd-a-4uqj">[TAGGER]<br><br></a><a href="https://lucianothewindowsfan.github.io/pcmusic/sets/[PROJECT NAME].fsa" class="gwd-a-4uqj">Download</a><br><br>Project [PROJECT NAME] version [VERSION] released on [LATEST VERSION RELEASE DATE]<br><br>Linked with:<br><a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/games/flash/[PROJECT NAME]_2.html" class="gwd-a-4uqj">[LINKED GAME]</a> ([LINKED PLATFORM])<br><br>Tracklist:<br>[TRACK NUMBER] | [NAME]</span>
+  <span class="gwd-span-cjvs">[GAME] ([PLATFORM])<br>Composer: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[COMPPOSER (HTML)].html" class="gwd-a-4uqj">[COMPPOSER]</a><br>Developer: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[DEVELOPER (HTML)].html" class="gwd-a-4uqj">[DEVELOPER]</a><br>Publisher: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/company/[PUBLISHER (HTML)].html" class="gwd-a-4uqj">[PUBLISHER]</a><br>Release Date: [GAME RELEASE DATE]<br>Dumper: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/contributor/[DUMPER (HTML)].html" class="gwd-a-4uqj">[DUMPER]</a><br>Tagger: <a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/contributor/[TAGGER (HTML)].html" class="gwd-a-4uqj">[TAGGER]<br><br></a><a href="https://lucianothewindowsfan.github.io/pcmusic/sets/[PROJECT NAME].fsa" class="gwd-a-4uqj">Download</a><br><br>Project [PROJECT NAME] version [VERSION] released on [LATEST VERSION RELEASE DATE]<br><br>Linked with:<br><a href="https://lucianothewindowsfan.github.io/pcmusic/v2/profile/games/flash/[PROJECT NAME]_2.html" class="gwd-a-4uqj">[LINKED GAME]</a> ([LINKED PLATFORM])<br><br>Tracklist:<br>[TRACK NUMBER] | [NAME]<br><br><div id="disqus_thread"></div></span>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = pcmusic;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = [PROJECT NAME]; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://pcmusic.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   <img src="https://lucianothewindowsfan.github.io/pcmusic/v2/assets/screenshot/[PROJECT NAME].png" id="doki" class="gwd-img-1mra">
 </body>
 
