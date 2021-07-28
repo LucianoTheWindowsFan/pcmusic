@@ -1,4 +1,4 @@
-[GAME] should be replaced with the game's title.
+[GAME] should be replaced with the game's title.<br>
 [PLATFORM] should be replaced with the platform the game was released on.
 [LINKED GAME] should be replaced with the linked game's title.
 [LINKED PLATFORM] should be replaced with the platform the linked game was released on.
@@ -14,11 +14,10 @@
 [COMPPOSER (HTML)] should be replaced with the person(s) who compsed the game's music, written per webpage naming standards.
 [COMPPOSER] should be replaced with the person(s) who compsed the game's music.
 [GAME RELEASE DATE] should be replaced with the day the game was released.
-[GAME RELEASE DATE] should be replaced with the day the game was released.
 [VERSION] should be replaced with the set's latest version number.
 [LATEST VERSION RELEASE DATE] should be replaced with the release date of the set's latest version.
 [WIDTH] should be replaced with the image width.
-[HEIGHT] should be replaced with the image height.
+[HEIGHT] should be replaced with the image height, usually 240px.
 
 <!DOCTYPE html>
 <html>
